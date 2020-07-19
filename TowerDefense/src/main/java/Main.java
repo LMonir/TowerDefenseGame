@@ -2,8 +2,8 @@
 public class Main {
 // na du :P
 	public static void main(String[] args) {
-		System.out.println("Wie geht es dir?");
-
+		// TODO Auto-generated method stub
+		System.out.println("so ich hoffe das reicht als Beispiel");
 	}
 
 }
